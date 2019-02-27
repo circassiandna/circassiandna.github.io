@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Mukharbek Organokov"
+  avatar           : "photo.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
-  employer         :
+  employer         : "Université de Strasbourg"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=jYZaDVoAAAAJ"
-  email            :
+  email            : "mukharbek.organokov@iphc.cnrs.fr"
   uri              :
   bitbucket        :
   codepen          :
