@@ -1,2 +1,0 @@
-# kabartay.github.io
-MyWebpage
