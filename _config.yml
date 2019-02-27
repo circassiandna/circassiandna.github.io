@@ -84,7 +84,7 @@ author:
   avatar           : "photo.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
-  employer         : "Université de Strasbourg"
+  employer         : #"Université de Strasbourg"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=jYZaDVoAAAAJ"
   email            : "mukharbek.organokov@iphc.cnrs.fr"
   uri              :
@@ -106,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "muhakabartay"
+  twitter          : &muhakabartay
   vine             :
   weibo            :
   xing             :
