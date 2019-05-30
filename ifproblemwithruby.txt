@@ -1,4 +1,0 @@
-I used this:
-http://qaru.site/questions/495813/bundle-install-failed-due-to-permission-denied
-
-sudo gem update --system --no-user-install
